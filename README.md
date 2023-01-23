@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm A softfware developer starting his journey one PR at a time... Looking forward to creating magic on the internet.
+I'm Jones Binadiegha(Bina for short) Gabriel, A softfware developer starting his journey one PR at a time... Looking forward to creating magic on the internet.
 
 Here are some ideas to get you started:
 
