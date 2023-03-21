@@ -5,7 +5,7 @@ I'm Jones Binadiegha(Bina for short) Gabriel, A softfware developer starting his
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on My Portfolio
+- 🔭 I’m currently Building my Portfolio
 - 🌱 I’m currently learning Typescript and Javascript
 - 👯 I’m looking to collaborate on Opensource projects
 - 🤔 I’m looking for help with Passing turing tests 🙂
